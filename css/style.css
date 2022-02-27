@@ -190,7 +190,7 @@ footer {
     border-top-color: #148F77;
     border-right-color: #148F77;
     border-bottom-color: #148F77;
-    animation: puterin 1s linear infinite;
+    animation: puterin .5s  linear infinite;
 }
 
 
